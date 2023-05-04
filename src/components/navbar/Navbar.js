@@ -10,7 +10,7 @@ import MenuIcon from "@mui/icons-material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
 import DescriptionIcon from "@mui/icons-material/Description";
 
-function Navbar({open,setOpen}) {
+function Navbar({ open, setOpen }) {
   const handleClick = () => setOpen(!open);
   const closeMenu = () => setOpen(false);
   return (
@@ -102,7 +102,7 @@ function Navbar({open,setOpen}) {
           <a
             className="resume"
             to="contact"
-            href="https://drive.google.com/file/d/1hzfK3VSdL4uH_b3BH9-z61FpTk3eKvoG/view?usp=share_link"
+            href="https://drive.google.com/file/d/17Li2CIT9MvOt9ol63BPTIv386x1rZZPg/view?usp=share_link"
             target="_blank"
             rel="noreferrer"
             onClick={closeMenu}
