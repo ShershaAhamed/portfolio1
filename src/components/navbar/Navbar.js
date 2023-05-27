@@ -74,18 +74,7 @@ function Navbar({ open, setOpen }) {
             <FormatListNumberedIcon className="nav-icon" /> Project
           </Link>
         </h6>
-        {/* <h6>
-          <Link
-            to="achievement"
-            spy={true}
-            smooth={true}
-            offset={-90}
-            duration={250}
-            onClick={closeMenu}
-          >
-            <FormatListNumberedIcon className="nav-icon" /> Achievement
-          </Link>
-        </h6> */}
+        
         <h6>
           <Link
             to="contact"
