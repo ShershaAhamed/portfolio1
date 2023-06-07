@@ -74,7 +74,7 @@ function Navbar({ open, setOpen }) {
             <FormatListNumberedIcon className="nav-icon" /> Project
           </Link>
         </h6>
-        
+
         <h6>
           <Link
             to="contact"
@@ -91,7 +91,7 @@ function Navbar({ open, setOpen }) {
           <a
             className="resume"
             to="contact"
-            href="https://drive.google.com/file/d/1QTWQE0_tzCob1L3ZMSv0luUneJKtqE5w/view?usp=share_link"
+            href="https://drive.google.com/file/d/1TZf5iVLKNea-4jLx73EyiRbdX3P81_oq/view?usp=drive_link"
             target="_blank"
             rel="noreferrer"
             onClick={closeMenu}
