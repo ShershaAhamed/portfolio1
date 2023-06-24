@@ -31,7 +31,7 @@ function Skills() {
     },
     {
       name: "React",
-      link: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
+      link: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxBAQOdkXwqHxusqs2VSD18ebesGRr7Hvtg&usqp=CAU",
       color: "#1C5C61",
     },
     {
@@ -94,7 +94,7 @@ function Skills() {
     {
       name: "Tailwind CSS",
       link: "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg",
-       percentage: "80%",
+      percentage: "80%",
     },
   ];
   const skills2 = [
