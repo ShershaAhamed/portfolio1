@@ -62,7 +62,7 @@ function Contact() {
                   {/* <p className='contact-icon' onClick={() =>window.open("https://wa.me/+919566940955", "_blank")}> <WhatsAppIcon fontSize='medium' /> +91 9566940955</p> */}
                   <p 
                     onClick={() =>
-                      window.open("https://github.com/Shersha123", "_blank")
+                      window.open("https://github.com/ShershaAhamed", "_blank")
                     }
                   >
                     <GitHubIcon fontSize="medium" /> Github
@@ -100,7 +100,7 @@ function Contact() {
               </div>
             </div>
             <div className="col-sm-12 col-md-6">
-              <h1>Say hi</h1>
+              <h1>Say Hi</h1>
               <form onSubmit={handleSubmit} className="contact-form">
                 <input
                   type="text"

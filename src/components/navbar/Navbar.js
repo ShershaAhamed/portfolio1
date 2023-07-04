@@ -91,7 +91,7 @@ function Navbar({ open, setOpen }) {
           <a
             className="resume"
             to="contact"
-            href="https://drive.google.com/file/d/1TZf5iVLKNea-4jLx73EyiRbdX3P81_oq/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1utC7DOFyI4FTZnVeIxEFb9ltnPkt25dL/view?usp=drive_link"
             target="_blank"
             rel="noreferrer"
             onClick={closeMenu}
@@ -101,7 +101,7 @@ function Navbar({ open, setOpen }) {
         </h6>
       </div>
       <div className="menu_icon2 " onClick={handleClick}>
-        <span> <MenuIcon className="nav-menu" /></span>
+        <span> <MenuIcon className="nav-menu" /></span>!
       </div>
     </nav>
   );
