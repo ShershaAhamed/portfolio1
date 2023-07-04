@@ -29,7 +29,7 @@ function Home() {
                 <span
                   className="home-icon"
                   onClick={() =>
-                    window.open("https://github.com/Shersha123", "_blank")
+                    window.open("https://github.com/ShershaAhamed", "_blank")
                   }
                 >
                   <GitHubIcon fontSize="medium" />
@@ -57,7 +57,7 @@ function Home() {
                   className="home-icon"
                   onClick={() => window.open("tel://+919566364289", "_blank")}
                 >
-                  
+
                   <CallIcon fontSize="small" />
                 </span>
               </div>
