@@ -78,7 +78,7 @@ function ModalView({ handleClose, open, data }) {
     event.target.style.color = "red";
   }
   function MouseOut(event) {
-    event.target.style.color = "blue";
+    event.target.style.color = "blue"; 
   }
   return (
     <>
