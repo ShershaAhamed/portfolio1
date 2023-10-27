@@ -17,7 +17,7 @@ function About() {
           <div className="row a_contains mx-auto">
             <div className=" col-sm-12 col-md-12 col-lg-6  about-left-contain">
               <img
-                src="https://www.roessner.tech/static/media/about.d8fe852f6a9badcd8616.png"
+                src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png"
                 alt="about"
               />
             </div>
