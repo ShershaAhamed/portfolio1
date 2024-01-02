@@ -9,7 +9,6 @@ function About() {
     "I have passion for **developing scalable web application** and working across the full stack.",
     "**I spend most days learning** and **building up**, either start it from **scratch and adding some customized features and functionality**.",
   ];
-
   return (
     <Element id="about">
       <div className="about-main">
