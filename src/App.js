@@ -11,15 +11,15 @@ import Skills from "./components/skill/Skills";
 function App() {
   const [open, setOpen] = useState(false);
   return (
-    <div  onTouchMove={()=> setOpen(false)}>
-      <Navbar  open={open} setOpen ={setOpen} />
+    <div onTouchMove={() => setOpen(false)}>
+      <Navbar open={open} setOpen={setOpen} />
       <Home />
       <About />
       <Skills />
       <Project />
       <Contact />
       <Footer />
-      
+
     </div>
   );
 }

@@ -28,8 +28,6 @@ function ModalView({ handleClose, open, data }) {
       left: "50%",
       transform: "translate(-50%, -50%)",
       color: "red",
-      // backgroundImage : `url(${background})`,
-      // backgroundSize: "cover",
       backgroundColor: "#DFFFDC",
       width: width > 730 ? "70%" : "95%",
       margin: "0 auto",
